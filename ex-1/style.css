@@ -168,7 +168,7 @@ h3 {
 }
 
 /* Start coding here */
-@media only screen and (max-width: 600px){
+@media only screen and (max-width: 600px) {
   .row-1,
   .row-2 {
     display: flex;
@@ -177,4 +177,3 @@ h3 {
     align-items: center;
   }
 }
-  
